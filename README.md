@@ -1,4 +1,4 @@
-## Hi there, I'm Jinmyeong Kim
+## Hi there, I'm Jinmyung Kim
 
 **성능의 한계를 고민하고, 지식을 나누며 함께 성장하는 백엔드 개발자입니다.**
 
@@ -43,24 +43,5 @@
 
 ---
 
-### Stats & Algorithm
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jin214930&show_icons=true&theme=transparent" alt="Jinmyeong's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin214930&layout=compact&theme=transparent" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://solved.ac/jin214930">
-    <img src="http://mazassumnida.wtf/api/v1/badge/generate?handle=jin214930" alt="Solved.ac Profile" />
-  </a>
-</div>
-
----
-
-### Contact
-
-* Email: wlsaud2149@naver.com
-* Github: https://github.com/jin214930
+### Stats
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin214930)](https://solved.ac/jin214930)
