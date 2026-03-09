@@ -44,4 +44,6 @@
 ---
 
 ### Stats
+[![Ward's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin214930)](https://github.com/jin214930/github-readme-stats)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin214930)](https://solved.ac/jin214930)
