@@ -45,5 +45,6 @@
 
 ### Stats
 [![Ward's GitHub stats](https://github-readme-stats-hazel-eight-19.vercel.app/api?username=jin214930&show_icons=true&theme=dark)](https://github.com/jin214930)
+[![Top Langs](https://github-readme-stats-hazel-eight-19.vercel.app/api/top-langs/?username=jin214930&layout=compact&theme=dark)](https://github.com/jin214930)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin214930)](https://solved.ac/jin214930)
